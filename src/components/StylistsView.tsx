@@ -99,7 +99,7 @@ export const StylistsView: React.FC<StylistsViewProps> = ({
                 <div className="flex items-center gap-2 text-xs text-[#747686] pt-2">
                   <Clock className="w-3.5 h-3.5 text-[#1D4ED8]" />
                   <span>
-                    Dni pracy w atelier: <strong>{stylist.availableDays.join(', ')}</strong>
+                    Dni pracy: <strong>{stylist.availableDays.join(', ')}</strong>
                   </span>
                 </div>
               </div>

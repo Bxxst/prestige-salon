@@ -57,7 +57,7 @@ export const LookbookView: React.FC<LookbookViewProps> = ({ onSelectForBooking }
         <ScrollReveal direction="up">
           <div className="max-w-3xl space-y-4">
           <span className="text-[11px] font-bold uppercase tracking-[0.14em] text-[#1D4ED8]">
-            Kolekcja Atelier
+            Kolekcja Metamorfoz
           </span>
             <h1 className="font-serif text-3xl sm:text-5xl font-medium text-[#121316] leading-tight">
               Lookbook & Portfolio Stylizacji

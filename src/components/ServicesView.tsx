@@ -72,7 +72,7 @@ export const ServicesView: React.FC<ServicesViewProps> = ({
               Menu Usług & Autorskich Rytuałów
             </h1>
             <p className="text-sm sm:text-base text-[#54575F] leading-relaxed">
-              Każda wizyta w Atelier obejmuje aromaterapeutyczną kąpiel pielęgnacyjną, indywidualną konsultację kondycji włosa oraz napój z naszej karty powitalnej.
+              Każda wizyta w Salonie obejmuje aromaterapeutyczną kąpiel pielęgnacyjną, indywidualną konsultację kondycji włosa oraz napój z naszej karty powitalnej.
             </p>
           </div>
         </ScrollReveal>

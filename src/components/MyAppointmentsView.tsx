@@ -54,7 +54,7 @@ export const MyAppointmentsView: React.FC<MyAppointmentsViewProps> = ({
               Moje Wizyty
             </h1>
             <p className="text-sm text-[#54575F]">
-              Zarządzaj swoimi wizytami w Atelier i korzystaj z przywilejów programu Haute Prestige.
+              Zarządzaj swoimi wizytami w Salonie i korzystaj z przywilejów programu Haute Prestige.
             </p>
           </div>
 

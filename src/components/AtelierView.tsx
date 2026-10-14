@@ -147,7 +147,6 @@ export const AtelierView: React.FC<AtelierViewProps> = ({
           <ScrollReveal direction="up">
             <div className="text-center max-w-2xl mx-auto mb-14 space-y-3">
               {/*<span className="text-[11px] font-bold uppercase tracking-[0.14em] text-[#1D4ED8]">*/}
-              {/*  Filozofia Atelier*/}
               {/*</span>*/}
               <h2 className="font-serif text-3xl sm:text-4xl font-medium text-[#121316]">
                 Twoje zadowolenie jest priorytetem

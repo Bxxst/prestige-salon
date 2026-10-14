@@ -348,7 +348,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({
                           Najszybszy dostępny mistrz
                         </h5>
                         <p className="text-xs text-[#54575F]">
-                          Atelier dobierze stylistę najlepiej odpowiadającego wybranej usłudze
+                          Salon dobierze stylistę najlepiej odpowiadającego wybranej usłudze
                         </p>
                       </div>
                     </div>
@@ -498,7 +498,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({
 
                   <div>
                     <label className="text-xs font-semibold text-[#121316] mb-1.5 block">
-                      Powitalny napój w Atelier (w cenie wizyty)
+                      Powitalny napój w Salonie (w cenie wizyty)
                     </label>
                     <div className="relative">
                       <select
