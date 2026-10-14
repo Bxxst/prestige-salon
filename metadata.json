@@ -1,0 +1,8 @@
+{
+  "name": "Studio Fryzur Prestige",
+  "description": "Profesjonalny Salon Fryzjerski z miłą atmosferą i doświadczonymi Stylistkami",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
