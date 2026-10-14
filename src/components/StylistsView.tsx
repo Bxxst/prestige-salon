@@ -28,7 +28,7 @@ export const StylistsView: React.FC<StylistsViewProps> = ({
             Kreatorzy Stylu
           </span>
           <h1 className="font-serif text-3xl sm:text-5xl font-medium text-[#121316] leading-tight">
-            Mistrzowie Haute Coiffure
+            Styliści Salonu Prestige
           </h1>
           <p className="text-sm sm:text-base text-[#54575F] leading-relaxed">
             Nasz zespół tworzą międzynarodowi szkoleniowcy, wielokrotni laureaci konkursów fryzjerstwa artystycznego oraz pasjonaci zdrowych, promiennych włosów.
@@ -112,7 +112,7 @@ export const StylistsView: React.FC<StylistsViewProps> = ({
                   className="px-6 py-2.5 bg-[#1D4ED8] hover:bg-[#172554] text-white text-xs font-semibold rounded-full transition-all cursor-pointer shadow-sm active:scale-[0.98] flex items-center gap-2"
                 >
                   <Calendar className="w-3.5 h-3.5" />
-                  <span>Umów wizytę u mistrza</span>
+                  <span>Umów wizytę u stylistki</span>
                 </button>
               </div>
             </div>

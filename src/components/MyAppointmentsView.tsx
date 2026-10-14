@@ -70,16 +70,16 @@ export const MyAppointmentsView: React.FC<MyAppointmentsViewProps> = ({
             >
               Zaplanowane Wizyty ({appointments.length})
             </button>
-            <button
-              onClick={() => setActiveTab('privilege')}
-              className={`px-5 py-2 text-xs font-semibold rounded-full transition-all cursor-pointer ${
-                activeTab === 'privilege'
-                  ? 'bg-white text-[#121316] shadow-sm'
-                  : 'text-[#54575F] hover:text-[#121316]'
-              }`}
-            >
-              Karta HCP Privilege
-            </button>
+            {/*<button*/}
+            {/*  onClick={() => setActiveTab('privilege')}*/}
+            {/*  className={`px-5 py-2 text-xs font-semibold rounded-full transition-all cursor-pointer ${*/}
+            {/*    activeTab === 'privilege'*/}
+            {/*      ? 'bg-white text-[#121316] shadow-sm'*/}
+            {/*      : 'text-[#54575F] hover:text-[#121316]'*/}
+            {/*  }`}*/}
+            {/*>*/}
+            {/*  Karta HCP Privilege*/}
+            {/*</button>*/}
           </div>
         </div>
       </ScrollReveal>
