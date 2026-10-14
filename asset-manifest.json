@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prestige-salon/static/css/main.43b180c1.css",
+    "main.js": "/prestige-salon/static/js/main.1a60d585.js",
+    "static/js/453.be4ca9f4.chunk.js": "/prestige-salon/static/js/453.be4ca9f4.chunk.js",
+    "index.html": "/prestige-salon/index.html",
+    "main.43b180c1.css.map": "/prestige-salon/static/css/main.43b180c1.css.map",
+    "main.1a60d585.js.map": "/prestige-salon/static/js/main.1a60d585.js.map",
+    "453.be4ca9f4.chunk.js.map": "/prestige-salon/static/js/453.be4ca9f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43b180c1.css",
+    "static/js/main.1a60d585.js"
+  ]
+}
